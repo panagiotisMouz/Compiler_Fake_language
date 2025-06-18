@@ -1,0 +1,18 @@
+Scope:check 	Level Of Nesting:0
+Entity:<__main__.Entity object at 0x000001E3F3ABCA30>	Offset:12
+
+Scope:counter 	Level Of Nesting:0
+Entity:<__main__.Entity object at 0x000001E3F3ABC3D0>	Offset:16
+
+Scope:red 	Level Of Nesting:0
+Entity:<__main__.Entity object at 0x000001E3F3ABC490>	Offset:24
+
+Scope:fact 	Level Of Nesting:0
+Entity:<__main__.Entity object at 0x000001E3F3ABC9D0>	Offset:32
+
+Scope:test 	Level Of Nesting:0
+Entity:<__main__.Entity object at 0x000001E3F3A5FBB0>	Offset:48
+
+Scope:fact 	Level Of Nesting:0
+Entity:<__main__.Entity object at 0x000001E3F3A5FE80>	Offset:68
+

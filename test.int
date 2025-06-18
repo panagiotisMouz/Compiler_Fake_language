@@ -1,0 +1,13 @@
+0: begin_block, test1, _, _
+1: :=, 0, _, A
+2: :=, 1, _, B
+3: *, A, B, T_0
+4: :=, T_0, _, T
+5: >, B, A, 7
+6: jumb, _, _, 8
+7: out, B, _, _
+8: out, A, _, _
+9: out, B, _, _
+10: out, T, _, _
+11: halt, _, _, _
+12: end_block, test1, _, _

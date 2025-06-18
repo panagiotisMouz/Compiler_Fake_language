@@ -1,0 +1,50 @@
+program testing { 
+
+declare check,counter,red;
+declare fact,test;
+
+
+function rest(in fact,in check){ #9line#
+ function test(in fact){
+		if(fact > 2){
+			print(fact);
+			fact:=fact+1;
+		}
+		else
+			return(0);
+	}
+ fact:=fact+1 + 2 - 3;
+return(1);
+}
+fact:=1;
+check:=2;
+counter:=0;
+while(counter<4){#22line#
+ input(red);
+ print(red);
+ counter:=counter + 1;
+
+}
+
+call rest(in fact,in red);
+if(fact < 2){
+		print(fact);
+		fact:=fact+1;
+	}
+	else
+		print(red);
+forcase
+	case(red>0){
+
+	red:=red-1;
+	print(red);
+	}
+	default
+		print(red);
+
+counter:=2;
+print(counter);
+input(counter);
+}.
+
+
